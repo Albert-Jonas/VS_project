@@ -1,6 +1,6 @@
 import requests
 
-
+#
 def len_joke():
     joke = get_joke()
     return len(joke)
